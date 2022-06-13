@@ -7,10 +7,10 @@ section{
     height: 150px;
 }
 button .bass{
-    background-color: red;
+    background: red;
     color: black;
 }
 button .snare{
-    background-color: yellow;
+    background: yellow;
     color: black;
 }
