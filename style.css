@@ -6,11 +6,11 @@ section{
     width: auto;
     height: 150px;
 }
-section #bass{
+#bass{
     background-color: red;
     color: black;
 }
-section #snare{
+#snare{
     background-color: yellow;
     color: black;
 }
