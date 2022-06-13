@@ -8,11 +8,11 @@ button{
     width: 200px;
     height: 200px;
 }
-section #bass button{
+#bass button{
     background-color: red;
     color: black;
 }
-section #snare button{
+#snare button{
     background-color: yellow;
     color: black;
 }
