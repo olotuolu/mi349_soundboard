@@ -6,11 +6,11 @@ section{
     width: auto;
     height: 150px;
 }
-button #bass{
+section #bass{
     background-color: red;
     color: black;
 }
-button #snare{
+section #snare{
     background-color: yellow;
     color: black;
 }
