@@ -5,4 +5,5 @@ section{
     display: flex;
     width: auto;
     height: 100px;
+    align-items: center;
 }
