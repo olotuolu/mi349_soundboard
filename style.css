@@ -3,7 +3,7 @@ body{
 }
 section{
     display: flex;
-    width: 150px;
+    width: 200px;
     height: 150px;
 }
 section #bass button{
