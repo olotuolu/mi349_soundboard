@@ -3,14 +3,14 @@ body{
 }
 section{
     display: flex;
-    width: auto;
+    width: 150px;
     height: 150px;
 }
-#bass{
+section #bass button{
     background-color: red;
     color: black;
 }
-#snare{
+section #snare button{
     background-color: yellow;
     color: black;
 }
