@@ -3,4 +3,6 @@ body{
 }
 section{
     display: flex;
+    width: auto;
+    height: 100px;
 }
