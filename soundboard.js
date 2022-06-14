@@ -1,0 +1,8 @@
+var bass1= document.getElementById(botton1)
+var bass2= document.getElementById(botton2)
+var bass3= document.getElementById(botton3)
+var bass4= document.getElementById(botton4)
+var snare1= document.getElementById(botton5)
+var snare2= document.getElementById(botton6)
+var snare3= document.getElementById(botton7)
+var snare4= document.getElementById(botton8)
