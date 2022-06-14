@@ -3,12 +3,14 @@ body{
 }
 section{
     display: flex;
+    flex: auto;
 }
 button{
     width: 200px;
     height: 200px;
     margin: 10px;
     border-radius: 25%;
+    transition: opacity ease-in-out 0.2s;
 }
 #bass button{
     background-color: rgb(255, 65, 65);
