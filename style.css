@@ -10,7 +10,6 @@ button{
     height: 200px;
     margin: 10px;
     border-radius: 25%;
-    opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
 }
 #bass button{
