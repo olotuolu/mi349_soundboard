@@ -1,5 +1,5 @@
 body{
-    background: white;
+    background: rgb(0, 0, 0);
 }
 p{
     display: flex;
@@ -7,9 +7,19 @@ p{
 }
 button{
     margin: 10px;
-    background: rgb(176, 176, 176);
     width: 200px;
     height: 200px;
     border-radius: 25%;
+}
+#wow{
+    background: yellow;
+    border-color: black;
+}
+#mario-jump{
+    background: blue;
+    border-color: red;
+}
+#john-cena{
+    background: black;
     border-color: red;
 }
