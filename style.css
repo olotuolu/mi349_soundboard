@@ -5,3 +5,11 @@ section{
     display: flex;
     flex: auto;
 }
+button{
+    margin: 10px;
+    background: rgb(176, 176, 176);
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    border-color: red;
+}
