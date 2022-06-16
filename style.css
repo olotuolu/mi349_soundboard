@@ -4,7 +4,6 @@ body{
 section,button{
     display: flex;
     flex: auto;
-    font-size: x-large;
 }
 button{
     margin: 10px;
