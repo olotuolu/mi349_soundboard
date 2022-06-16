@@ -5,14 +5,3 @@ section{
     display: flex;
     flex: auto;
 }
-button{
-    
-}
-#bass button{
-    background-color: rgb(255, 65, 65);
-    color: black;
-}
-#snare button{
-    background-color: rgb(255, 255, 119);
-    color: black;
-}
