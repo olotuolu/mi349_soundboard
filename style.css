@@ -1,7 +1,7 @@
 body{
     background: white;
 }
-section,button{
+p{
     display: flex;
     flex: auto;
 }
