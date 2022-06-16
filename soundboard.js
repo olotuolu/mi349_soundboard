@@ -1,4 +1,4 @@
 var wow_sound= document.getElementById("wow_sound");
 function wow(){
-    wow_sound.onplay()
+    wow_sound.play()
 }
