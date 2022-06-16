@@ -1,7 +1,7 @@
 body{
     background: white;
 }
-section{
+section button{
     display: flex;
     flex: auto;
     font-size: x-large;
